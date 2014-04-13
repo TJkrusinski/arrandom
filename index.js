@@ -3,7 +3,8 @@
 /**
  *  Recurse to remove items from arr and push onto ret
  */
-module.exports = function(arr){
+module.exports = function(a){
+  var arr = Array.prototype.slice.call(a);
   return (function random (arr, ret) {
     ret = ret || [];
     if (!arr.length) return ret;

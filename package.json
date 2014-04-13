@@ -1,6 +1,6 @@
 {
   "name": "arrandom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Randomize the items in an array and return a new array",
   "main": "index.js",
   "scripts": {
