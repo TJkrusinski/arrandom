@@ -1,0 +1,24 @@
+{
+  "name": "arrandom",
+  "version": "0.0.0",
+  "description": "Randomize the items in an array and return a new array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/arrandom.git"
+  },
+  "keywords": [
+    "array",
+    "random",
+    "randomize"
+  ],
+  "author": "TJ Krusinski <tjkrus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/arrandom/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/arrandom"
+}
